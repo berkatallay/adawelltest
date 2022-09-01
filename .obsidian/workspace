@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "adawell.md",
+            "file": "TEST.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adawell.md",
+                "file": "TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adawell.md",
+                "file": "TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adawell.md"
+                "file": "TEST.md"
               }
             }
           },
@@ -136,6 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ad9d111234640be1",
-  "lastOpenFiles": []
+  "active": "65197713679238ad",
+  "lastOpenFiles": [
+    "adawell.md",
+    "TEST.md"
+  ]
 }
