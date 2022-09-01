@@ -1,0 +1,3 @@
+- Probiotics are live beneficial bacteria that provide health benefits.
+- Probiotics can help with hair growth.
+- Probiotics have been proposed to restore and improve health through modulating the microbiome. 

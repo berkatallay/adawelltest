@@ -1,0 +1,5 @@
+## Oxytocin
+**What it is?**
+- Relieves anxiety by lowering blood #cortisol levels, reducing the harmful effects of stress on the cardiovascular system, and reducing the response of the #amygdala to emotional stimuli. 
+- Neurotransmitter & peptide hormone consisting of nine amino acids. It is produced in the hypothalamus of the brain, from where it is released both into the bloodstream and directly into the brain (see the 'Mind' section of the Biohacker's Handbook for more details). It affects the hypothalamus, amygdala, hippocampus, brainstem, heart, uterus, and the autonomic nervous system of the spinal cord, regulatory sites, especially in the parasympathetic nerve branch.  
+- Oxytocin is also essentially involved in reproduction, attachment, and mating. Oxytocin has been shown to relieve anxiety by lowering blood cortisol levels, reducing the harmful effects of stress on the cardiovascular system, and reducing the response of the amygdala to emotional stimuli. Oxytocin also appears to attenuate the stress response produced by the HPA axis.  ig post: @neurohacker. 

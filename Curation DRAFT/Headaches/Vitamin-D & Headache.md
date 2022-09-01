@@ -1,0 +1,1 @@
+Most people take vitamin D supplements when they cannot get the required amounts of vitamin D from their diet or exposure to the sun. **Excessive use of a supplement or long-term usage of high dosage can lead to unexpected primary headaches, including migraines and tension-type headaches**.

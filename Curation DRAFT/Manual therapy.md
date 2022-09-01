@@ -1,0 +1,2 @@
+## Manual therapy
+Manual therapy, or manipulative therapy, is **a physical treatment primarily used by physical therapists, physiotherapists, occupational therapists to treat musculoskeletal pain and disability**; it mostly includes kneading and manipulation of muscles, joint mobilization &  joint manipulation.
